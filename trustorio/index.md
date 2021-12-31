@@ -43,5 +43,5 @@ Trustorio is accessible across the globe and has the lowest bandwidth requiremen
 ## Bring Trustorio to your institution
 To start using Trustorio, just [opt in to our NoProctor™ system](https://spencerteiknsmith.github.io/trustorio/get-started/) and inform your test-takers that they should be using Trustorio for your upcoming exam!
 
-## About to take an exam with Proctorio?
+## About to take an exam with Trustorio?
 [Click here to get started!](https://spencerteiknsmith.github.io/trustorio/get-started/)
